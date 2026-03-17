@@ -62,7 +62,7 @@ A real-time monitoring system that detects temperature and humidity levels using
 
 ---
 ## ▶️ Simulation
-[live simulation link](https://wokwi.com/projects/new/arduino-uno)
+[live simulation link](https://wokwi.com/projects/458753049333917697)
 
 ---
 ## 📸 Output
