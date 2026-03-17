@@ -53,11 +53,12 @@ A real-time monitoring system that detects temperature and humidity levels using
 
 ---
 ## 📁 Project Structure
-temperature-humidity-alert-system/
+```temperature-humidity-alert-system/
 ├── sketch.ino
 ├── diagram.json
 ├── libraries.txt
 └── README.md
+```
 
 ---
 ## ▶️ Simulation
