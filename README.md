@@ -84,5 +84,5 @@ A real-time monitoring system that detects temperature and humidity levels using
 
 ---
 
-## ⭐ Acknowledgement
+##  Acknowledgement
 This project was developed as a collaborative IoT-based monitoring system for learning and practical implementation of embedded systems.
