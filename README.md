@@ -17,7 +17,7 @@ A real-time monitoring system that detects temperature and humidity levels using
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 - Arduino (C/C++)
 - DHT22 Sensor
 - I2C LCD Display (16x2)
