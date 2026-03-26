@@ -1,10 +1,10 @@
-# 🌡️ Temperature & Humidity Alert System
+#  Temperature & Humidity Alert System
 
 A real-time monitoring system that detects temperature and humidity levels using a DHT22 sensor and alerts users through LEDs, buzzer, and LCD display.
 
 ---
 
-## 🚀 Features
+##  Features
 - Real-time temperature and humidity monitoring  
 - Alert system using buzzer  
 - Red LED for alert condition  
@@ -24,7 +24,7 @@ A real-time monitoring system that detects temperature and humidity levels using
 - Wokwi Simulator
 
 ---
-## ⚙️ Components Required
+##  Components Required
 
 | Component                      | Quantity | Description                              |
 |--------------------------------|----------|------------------------------------------|
@@ -39,7 +39,7 @@ A real-time monitoring system that detects temperature and humidity levels using
 
 ---
 
-## 🧠 Working Principle
+##  Working Principle
 1. The DHT22 sensor reads temperature and humidity values.
 2. Data is displayed on the LCD screen.
 3. If:
@@ -52,7 +52,7 @@ A real-time monitoring system that detects temperature and humidity levels using
 5. Otherwise, system remains in normal state with Green LED ON.
 
 ---
-## 📁 Project Structure
+##  Project Structure
 ```temperature-humidity-alert-system/
 ├── sketch.ino
 ├── diagram.json
@@ -61,23 +61,23 @@ A real-time monitoring system that detects temperature and humidity levels using
 ```
 
 ---
-## ▶️ Simulation
+##  Simulation
 [live simulation link](https://wokwi.com/projects/458753049333917697)
 
 ---
-## 📸 Output
+##  Output
 - LCD displays temperature & humidity  
 - Serial Monitor shows logs  
 - LEDs and buzzer indicate system status  
 
 ---
 
-## 👩‍💻 Contributors
+##  Contributors
 - Payal Sulaniya
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 - Mobile notifications (IoT integration)  
 - Data visualization dashboard  
 - Cloud data storage  
